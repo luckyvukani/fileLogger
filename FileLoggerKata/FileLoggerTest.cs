@@ -10,6 +10,7 @@ namespace FileLoggerKata
 {
     public class FileLoggerTest
     {
+        //unit test
         string fileName = @".\log.txt";
         FileLogger fileLogger = new FileLogger();
 
